@@ -1,0 +1,5 @@
+test,p_value,significant_at_5pct
+"Gender (Welch t-test, F vs M)",0.392,FALSE
+Age group (one-way ANOVA),0.721,FALSE
+Weekday (one-way ANOVA),0.219,FALSE
+"Month, Jan-Sep (one-way ANOVA)",0.515,FALSE

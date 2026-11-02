@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets / local config
+.env
+*.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Office temp/lock files
+~$*
+*.tmp
+
+# Large or regenerable files (uncomment if the repo gets heavy)
+# data/processed/
